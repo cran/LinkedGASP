@@ -1,0 +1,5 @@
+exportPattern(".")
+importFrom("graphics", "points","axis", "legend", "par", "plot", "polygon", "text", "title")
+importFrom("stats", "lm", "optim", "qnorm", "qt", "var")
+import(nloptr)
+import(spBayes)
